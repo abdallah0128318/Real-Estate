@@ -4,6 +4,13 @@
 
 This comprehensive real estate application is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a robust platform for users to explore, list, and manage real estate properties with ease and efficiency.
 
+
+## ScreenShots from the App
+
+![Screenshot Description](./client/src/assets/screenshot-1.png)
+![Screenshot Description](./client/src/assets/screenshot-2.png)
+![Screenshot Description](./client/src/assets/screenshot-3.png)
+
 ## Key Features
 
 ### 1. User Authentication and Profile Management
@@ -97,10 +104,4 @@ Copyright (c) 2024 Abdallah Qapeel Taha
 
 This Real Estate application aims to revolutionize the way people interact with property listings, making the process of finding and listing properties more accessible and user-friendly than ever before.
 
-
-## ScreenShots from the App
-
-![Screenshot Description](./client/src/assets/screenshot-1.png)
-![Screenshot Description](./client/src/assets/screenshot-2.png)
-![Screenshot Description](./client/src/assets/screenshot-3.png)
 
