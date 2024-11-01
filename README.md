@@ -96,3 +96,11 @@ Copyright (c) 2024 Abdallah Qapeel Taha
 ---
 
 This Real Estate application aims to revolutionize the way people interact with property listings, making the process of finding and listing properties more accessible and user-friendly than ever before.
+
+
+## ScreenShots from the App
+
+![Screenshot Description](assets/screenshot-1.png)
+![Screenshot Description](assets/screenshot-1.png)
+![Screenshot Description](assets/screenshot-1.png)
+
