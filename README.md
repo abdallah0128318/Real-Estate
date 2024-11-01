@@ -8,13 +8,13 @@ This comprehensive real estate application is built using the MERN (MongoDB, Exp
 ## ScreenShots from the App
 
 ### 1. Search Feature. 
-![Screenshot Description](./client/src/assets/screenshot-1.png)
+![Screenshot shows search feature](./client/src/assets/screenshot-1.png)
 
 ### 2. Profiling Fuctionality.
-![Screenshot Description](./client/src/assets/screenshot-2.png)
+![profiling feature](./client/src/assets/screenshot-2.png)
 
 ### 3. Authentication System
-![Screenshot Description](./client/src/assets/screenshot-3.png)
+![Screenshot shows authentication system feature](./client/src/assets/screenshot-3.png)
 
 ## Key Features
 
