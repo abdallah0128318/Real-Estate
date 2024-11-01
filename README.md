@@ -100,7 +100,7 @@ This Real Estate application aims to revolutionize the way people interact with 
 
 ## ScreenShots from the App
 
-![Screenshot Description](assets/screenshot-1.png)
-![Screenshot Description](assets/screenshot-1.png)
-![Screenshot Description](assets/screenshot-1.png)
+!(./client/src/assets/screenshot-1.png)
+!(./client/src/assets/screenshot-2.png)
+!(./client/src/assets/screenshot-3.png)
 
